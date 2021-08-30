@@ -1,4 +1,4 @@
-<!-- Хранится в resources/views/about.blade.php -->
+<!-- Хранится в resources/views/page/about.blade.php -->
 
 @extends('layouts.app')
 
